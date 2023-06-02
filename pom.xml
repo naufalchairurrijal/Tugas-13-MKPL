@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/bllmyinsnkml/Tugas-13-MKPL</url>
+      <url>https://maven.pkg.github.com/naufalalifaza/Tugas-13-MKPL</url>
     </repository>
   </distributionManagement>
   
